@@ -1,0 +1,49 @@
+
+--------------------------
+Número da Unidade: 1
+Autorizado por: Porteiro
+CPF:000.000.000-00
+Visitante: Bruno
+CPF:4567
+Entrada: 12/01/2022
+Saida: 14/01/2022, 
+--------------------------
+Número da Unidade: 3
+Autorizado por: Porteiro
+CPF:000.000.000-00
+Visitante: Daniel
+CPF:666.666.666-66
+Entrada: 09/01/2022
+Saida: 11/01/2022, 
+--------------------------
+Número da Unidade: 2
+Autorizado por: Porteiro
+CPF:000.000.000-00
+Visitante: Lucas
+CPF:444.444.444-44
+Entrada: 02/01/2022
+Saida: 03/01/2022, 
+--------------------------
+Número da Unidade: 1
+Autorizado por: Porteiro
+CPF:000.000.000-00
+Visitante: Maria
+CPF:222.222.222-22
+Entrada: 04/01/2022
+Saida: 07/01/2022, 
+--------------------------
+Número da Unidade: 2
+Autorizado por: Porteiro
+CPF:000.000.000-00
+Visitante: Maria
+CPF:222.222.222-22
+Entrada: 05/01/2022
+Saida: 06/01/2022, 
+--------------------------
+Número da Unidade: 1
+Autorizado por: Porteiro
+CPF:000.000.000-000
+Visitante: Maria
+CPF:222.222.222-22
+Entrada: 02/01/2022
+Saida: 04/01/2022
